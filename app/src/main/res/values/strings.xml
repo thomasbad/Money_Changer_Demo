@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Money Changer Demo</string>
-    
+    <string name="input_amount">Input Amount...</string>
+    <string name="change">CHANGE</string>
+    <string name="result_here">Result here...</string>
+
 </resources>
